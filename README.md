@@ -1,0 +1,2 @@
+- I'm curently learning Lua, C++, JavaScript, Python
+- How to reach me kdrblackmc@gmail.com
